@@ -1,4 +1,10 @@
 body {
   text-align: center;
-  align-items: center;
+}
+p {
+  margin: 20px;
+}
+
+footer {
+  margin-top: 35px;
 }
